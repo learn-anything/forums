@@ -8,6 +8,7 @@
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
 - [Longecity](http://www.longecity.org/forum/)
 - [Affinity](https://affinity.serif.com/forum/)
+- [Rclone](https://forum.rclone.org/)
 - [Alfred](https://www.alfredforum.com/) - Share [Alfred](https://www.alfredapp.com/) workflows.
 - [Hack forums](https://hackforums.net/index.php)
 - [Nixers](https://nixers.net/)
