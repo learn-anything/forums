@@ -2,6 +2,7 @@
 *Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 - [Swift](https://forums.swift.org/latest)
+- [Bootstrapped](http://discuss.bootstrapped.fm/) - A useful and informative forum guiding the software Bootstrapper.
 - [Eth Research](https://ethresear.ch/)
 - [fast.ai deep learning](http://forums.fast.ai/)
 - [Users rust](https://users.rust-lang.org)
