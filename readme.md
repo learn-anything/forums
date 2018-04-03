@@ -6,6 +6,7 @@
 - [Eth Research](https://ethresear.ch/)
 - [fast.ai deep learning](http://forums.fast.ai/)
 - [Users rust](https://users.rust-lang.org)
+- [DMT Nexus](https://www.dmt-nexus.me/forum/)
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
 - [Longecity](http://www.longecity.org/forum/)
 - [Affinity](https://affinity.serif.com/forum/)
