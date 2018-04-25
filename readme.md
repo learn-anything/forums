@@ -8,6 +8,7 @@
 - [Users rust](https://users.rust-lang.org)
 - [DMT Nexus](https://www.dmt-nexus.me/forum/)
 - [Keyboard Maestro](https://forum.keyboardmaestro.com/latest)
+- [Sublime Text](https://forum.sublimetext.com/)
 - [Longecity](http://www.longecity.org/forum/)
 - [Affinity](https://affinity.serif.com/forum/)
 - [Rclone](https://forum.rclone.org/)
