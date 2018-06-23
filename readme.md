@@ -32,6 +32,7 @@
 - [Stack exchange hot](https://stackexchange.com/?pagesize=50) - 133 Q&A communities including Stack Overflow.
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
 - [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
+- [Mac Power Users](https://talk.macpowerusers.com/latest)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
