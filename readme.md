@@ -33,6 +33,7 @@
 - [Hashnode](https://hashnode.com/) - Q&A community for coders.
 - [Stack overflow](https://stackoverflow.com/) - Programming Help Forum.
 - [Mac Power Users](https://talk.macpowerusers.com/latest)
+- [Huel](https://discuss.huel.com/) - Nutritionally complete food.
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
