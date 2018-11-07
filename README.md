@@ -5,8 +5,6 @@
 
 ---
 
-#### Contents
-
 ---
 
 - [Affinity](https://affinity.serif.com/forum/)
