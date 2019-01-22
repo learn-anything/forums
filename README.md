@@ -11,6 +11,7 @@
 - [Alfred](https://www.alfredforum.com/) - Share [Alfred](https://www.alfredapp.com/) workflows.
 - [Binary age](https://discuss.binaryage.com/)
 - [Bootstrapped](http://discuss.bootstrapped.fm/) - A useful and informative forum guiding the software Bootstrapper.
+- [B-T.cr](https://b-t.cr/) - Community discussion site about immune repertoire analysis.
 - [Discourse](https://try.discourse.org/)
 - [DMT Nexus](https://www.dmt-nexus.me/forum/)
 - [Eth Research](https://ethresear.ch/)
